@@ -247,7 +247,7 @@ footer {
 	font-size: 16px;
 	color:#ffcf24 ;
 	text-decoration: none;
-	position: relative;
+	position: absolute;
 	bottom: 0;
 	width: 100%;
 	margin-top: 50px;
