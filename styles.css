@@ -12,6 +12,7 @@ body{
 	background-blend-mode: soft-light;
 	overflow: auto;
 	background-attachment: fixed;
+	height:100%;
 }
 .left img{
 	max-height: 250px;
