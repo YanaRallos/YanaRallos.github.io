@@ -6,7 +6,7 @@
 	box-sizing:border-box;
 }
 body{
-	background: URL('images/background.jpg');
+	background: URL('background.jpg');
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-blend-mode: soft-light;
