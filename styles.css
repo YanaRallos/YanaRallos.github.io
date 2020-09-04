@@ -237,19 +237,3 @@ header{
 	max-width: 300px;
 	max-height: 150px;
 }
-
-
-footer {
-	text-align: center;
-	height: 60px;
-	padding:20px;
-	font-family: 'Rubik', sans-serif;
-	font-weight: 400;
-	font-size: 16px;
-	color:#ffcf24 ;
-	text-decoration: none;
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	margin-top: 50px;
-}
